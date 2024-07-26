@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "name": "Chapéu de palha",
+    "image": "/img/straw-hat.jpg",
+    "price": 9999999.99,
+    "description": "Um chapéu de palha do futuro Rei dos Piratas: Monkey D. Luffy",
+    "category": "one-piece"
+},
+{
+    "id": 2,
+    "name": "Shuriken",
+    "image": "/img/shuriken.png",
+    "price": 19.99,
+    "description": "Uma arma branca ninja",
+    "category": "naruto"
+},
+{
+    "id": 3,
+    "name": "Dedo do Sukuna",
+    "image": "/img/dedo-sukuna.webp",
+    "price": 666.66,
+    "description": "Um dos dedos do Rei das Maldições (não coma isso por favor)",
+    "category": "jujutsu-kaisen"
+},
+{
+    "id": 4,
+    "name": "Licença de Caçador",
+    "image": "/img/license-hunter.webp",
+    "price": 9999.99,
+    "description": "É um cartão que comprova o título de Hunter. É adquirido quando se é aprovado no Exame Hunter, organizado pelo Comitê Hunter.",
+    "category": "hunter-x-hunter"
+},
+{
+    "id": 5,
+    "name": "Pokebola",
+    "image": "/img/poke-ball.webp",
+    "price": 9.99,
+    "description": "Uma pokebola comum para capturar pokemons",
+    "category": "pokemon"
+},
+{
+    "id": 6,
+    "name": "Planeta Azul",
+    "image": "/img/blue-planet.webp",
+    "price": 499.99,
+    "description": "Uma pokebola comum para capturar pokemons",
+    "category": "hunter-x-hunter"
+},
+{
+    "id": 7,
+    "name": "Olhos Escarlates",
+    "image": "/img/scarlet-eyes.webp",
+    "price": 9999.99,
+    "description": "Uma pokebola comum para capturar pokemons",
+    "category": "hunter-x-hunter"
+},
+{
+    "id": 8,
+    "name": "GreatBall",
+    "image": "/img/great-ball.webp",
+    "price": 19.99,
+    "description": "Uma pokebola comum para capturar pokemons",
+    "category": "pokemon"
+},
+{
+    "id": 9,
+    "name": "UltraBall",
+    "image": "/img/ultra-ball.webp",
+    "price": 49.99,
+    "description": "Uma pokebola comum para capturar pokemons",
+    "category": "pokemon"
+}
+]
