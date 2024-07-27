@@ -5,7 +5,8 @@
     "price": 9999999.99,
     "description": "Um chapéu de palha do futuro Rei dos Piratas: Monkey D. Luffy",
     "category": "one-piece",
-    "moreinfo": "Um chapéu de palha que é particularmente famoso foi usado por Gol D. Roger e Shanks; e agora é usado por Monkey D. Luffy, dando a ele seu epíteto 'Luffy do Chapéu de Palha'."
+    "moreinfo": "Um chapéu de palha que é particularmente famoso foi usado por Gol D. Roger e Shanks; e agora é usado por Monkey D. Luffy, dando a ele seu epíteto 'Luffy do Chapéu de Palha'.",
+    "keywords" : ["one piece", "luffy", "chapéu de palha", "rei dos piratas", "mugiwara"]
 },
 {
     "id": 2,
@@ -14,7 +15,8 @@
     "price": 19.99,
     "description": "Uma arma branca ninja",
     "category": "naruto",
-    "moreinfo": "alguma coisa"
+    "moreinfo": "alguma coisa",
+    "keywords" : ["naruto", "shuriken", "arma branca", "kunai", "estrela", "estrelinha"]
 },
 {
     "id": 3,
@@ -23,7 +25,9 @@
     "price": 666.66,
     "description": "Um dos dedos do Rei das Maldições (não coma isso por favor)",
     "category": "jujutsu-kaisen",
-    "moreinfo": "alguma coisa"
+    "moreinfo": "alguma coisa",
+    "keywords" : ["dedo amaldiçoado", "dedo", "sukuna", "jujutsu", "jujutsu kaisen", "rei das maldições"]
+
 },
 {
     "id": 4,
@@ -32,7 +36,9 @@
     "price": 9999.99,
     "description": "É um cartão que comprova o título de Hunter. É adquirido quando se é aprovado no Exame Hunter, organizado pelo Comitê Hunter.",
     "category": "hunter-x-hunter",
-    "moreinfo": "alguma coisa"
+    "moreinfo": "alguma coisa",
+    "keywords" : ["hunter x hunter", "hxh", "gon", "killua", "hunter", "licença de caçador", "cartão"]
+
 },
 {
     "id": 5,
@@ -41,7 +47,8 @@
     "price": 9.99,
     "description": "Uma pokebola comum para capturar pokemons",
     "category": "pokemon",
-    "moreinfo": "alguma coisa"
+    "moreinfo": "alguma coisa",
+    "keywords" : ["pokemon", "pokebola"]
 },
 {
     "id": 6,
@@ -50,7 +57,8 @@
     "price": 499.99,
     "description": "Uma pokebola comum para capturar pokemons",
     "category": "hunter-x-hunter",
-    "moreinfo": "alguma coisa"
+    "moreinfo": "alguma coisa",
+    "keywords" : ["hxh", "hunter x hunter", "planeta azul", "joia azul", "bola azul"]
 },
 {
     "id": 7,
@@ -59,7 +67,8 @@
     "price": 9999.99,
     "description": "Uma pokebola comum para capturar pokemons",
     "category": "hunter-x-hunter",
-    "moreinfo": "alguma coisa"
+    "moreinfo": "alguma coisa",
+    "keywords" : ["hxh", "olhos vermelhos", "olhos escarlates", "escarlates", "kurapika", "hunter x hunter"]
 },
 {
     "id": 8,
@@ -68,7 +77,9 @@
     "price": 19.99,
     "description": "Uma pokebola comum para capturar pokemons",
     "category": "pokemon",
-    "moreinfo": "alguma coisa"
+    "moreinfo": "alguma coisa",
+    "keywords" : ["pokemon", "pokebola"]
+
 },
 {
     "id": 9,
@@ -77,6 +88,8 @@
     "price": 49.99,
     "description": "Uma pokebola comum para capturar pokemons",
     "category": "pokemon",
-    "moreinfo": "alguma coisa"
+    "moreinfo": "alguma coisa",
+    "keywords" : ["pokemon", "pokebola"]
+
 }
 ]
